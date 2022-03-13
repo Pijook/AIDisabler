@@ -1,0 +1,7 @@
+name: AIDisabler
+main: pl.pijok.aidisabler.AIDisabler
+version: 1.0.0
+load: POSTWORLD
+author: Pijok
+softdepend:
+  - Multiverse-Core

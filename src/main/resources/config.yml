@@ -1,0 +1,7 @@
+mobsWithDisabledAI:
+  - ZOMBIE
+  - PIG
+  - CHICKEN
+  - SHEEP
+worldsToUse:
+  - world
