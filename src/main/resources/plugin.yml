@@ -1,7 +1,10 @@
 name: AIDisabler
 main: pl.pijok.aidisabler.AIDisabler
-version: 1.0.0
+version: 1.0.1
 load: POSTWORLD
 author: Pijok
 softdepend:
   - Multiverse-Core
+commands:
+  aidisabler:
+    usage: /aidisabler
